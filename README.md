@@ -16,10 +16,11 @@ Sharn, City of Towers. Largest city in the world, located in the nation of Brela
 	- The organization you all work for, a branch of the government's military arm.
 
 
-**Game:** Entirely City-based
-**Politics:** Medium
-**Roleplaying:** Medium
+**Game:** Entirely City-based  
+**Politics:** Medium  
+**Roleplaying:** Medium  
 **Tactics:** Medium
+
 **Player Buy-In:** I'm wanting to run a game where the PCs have worked together for some time; they know each other, they're close-knit. They may not like each other, but they're all working for the Greater Good. 
 - All PCs must have a vested interest in seeing that Sharn, and Breland, lives to see another day. 
 - All PCs should be interested in seeing the Agency survives.
