@@ -1,13 +1,13 @@
-#### Season 2 - An Agency on the Brink
+## Season 2 - An Agency on the Brink
 
 In a city filled with corrupt guards, the growing turf war between the **BOROMAR CLAN** and **DAASK** led to the call to fight fire with fire. The Armed Response Agency was created as a response to these escalating threats within **SHARN**, the City of Towers. 
 
 Recently, the Agency has had a string of bad luck. Cases have ended poorly, and threats of a budget cut loom unless the team can turn things around. Yet there are factions within Sharn who would love to see the axe fall on the Agency, and who will work against your recovery attempt.
 
-##### Location
+### Location
 Sharn, City of Towers. Largest city in the world, located in the nation of Breland. A literal mile high city composed of towers built within towers. Watch out for that drop.
 
-##### Factions
+### Factions
 - **Boromar Clan**
 	- Halfling gangsters with a lot of political sway in the city.
 - **Daask**
@@ -15,7 +15,7 @@ Sharn, City of Towers. Largest city in the world, located in the nation of Brela
 - **King's Citadel**
 	- The organization you all work for, a branch of the government's military arm.
 
-
+### Game Notes
 **Game:** Entirely City-based  
 **Politics:** Medium  
 **Roleplaying:** Medium  
