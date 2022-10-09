@@ -36,7 +36,9 @@ Sharn, City of Towers. Largest city in the world, located in the nation of Brela
 - What your character did during the Last War, which went for 100 years and only ended 2 years ago.
 	- You may have served in the Last War, fighting for Breland against the other nations.
 	- If you didn't, then a lot of people you know probably did. A good percentage did not come back.
-- What your character did that brought them to the attention of Knight-Marshal Banarak Tithon, the deadliest swordsman in the land, and your boss.
+- What good and bad experiences your character has had.
+- 	- Smug will be asking for one good and one bad thing that happened to the character for each level-up.
+- What your character did that brought them to the attention of Knight-Marshal Banarak Tithon, the deadliest swordsman in the land, and your boss. The recruitment likely happened at level 4, and the team has progressed to level 5 in the last year.
 	- Was it something in the War?
 	- Were you a recommendation from a powerful figure within the government, or a Dragonmarked House?
 - What your character has in Sharn that makes them want to see it survive. 
@@ -51,3 +53,16 @@ Sharn, City of Towers. Largest city in the world, located in the nation of Brela
 - Your character likely knows all this and then some: https://keith-baker.com/dm-common-knowledge/
 - Primo resource for looking things up in the Eberron setting: https://eberron.tiddlyhost.com/
 
+
+#### The Agency
+- Established just over a year ago as a division of the [King's Citadel](https://eberron.tiddlyhost.com/#King's%20Citadel) in Sharn.
+- Primary goal was to be an answer to the higher-powered monster threat of Daask, or any Cults, really anything that's beyond the capability of the Sharn Watch.
+- Stu's character is in charge of the Agency.
+- The Agency answers to [Knight-Marshal Banarak Tithon](https://eberron.tiddlyhost.com/#Banarak%20Tithon).
+- As an extension of the King's Citadel, the Agency has reach - likely similar to the FBI where they can come in and claim jurisdiction.
+
+
+#### Sharn
+- The Sharn Watch is fairly corrupt. They won't investigate things a noble doesn't want investigated, they'll be bribed by the Boromar Clan, they won't stick their neck out to help unless they've got a really solid reason to.
+	- The Blackened Book is a special division of the Sharn Watch who are less corrupt, and tend to deal with magical threats.
+- The Boromar Clan is an old halfling mafia that run a good portion of the city. They've even got elected officials and ties to the Dragonmarked Houses.
