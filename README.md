@@ -61,6 +61,16 @@ Sharn, City of Towers. Largest city in the world, located in the nation of Brela
 - The Agency answers to [Knight-Marshal Banarak Tithon](https://eberron.tiddlyhost.com/#Banarak%20Tithon).
 - As an extension of the King's Citadel, the Agency has reach - likely similar to the FBI where they can come in and claim jurisdiction.
 
+###### Agency Roles
+General roles within the company. Right now these are just suggestions. What role do you think your character was hired for, what do they excel at? (The medic does not need to be a cleric or paladin btw, and you don't need to take the healer feat.)
+- Lead Detective: Stu's Character
+- Communications: Ashley's Character
+- Enforcer:
+- Muscle:
+- Tracker:
+- Medic:
+- Secretary:
+- Documentarian:
 
 #### Sharn
 - The Sharn Watch is fairly corrupt. They won't investigate things a noble doesn't want investigated, they'll be bribed by the Boromar Clan, they won't stick their neck out to help unless they've got a really solid reason to.
